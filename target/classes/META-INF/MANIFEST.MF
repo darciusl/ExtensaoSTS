@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: darcius_cead
+Build-Jdk: 10.0.2
+Implementation-Title: ExtensaoSTS
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.edu.iftm.extensaoSTS
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ExtensaoSTS
+Created-By: Maven Integration for Eclipse
+
